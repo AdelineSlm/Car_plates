@@ -1,0 +1,18 @@
+# Local files
+src/weights/ocr/
+src/weights/detection/
+
+# VisualStudioCode
+.vscode/*    
+!.vscode/settings.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+
+
